@@ -1,5 +1,5 @@
 const CACHE_NAME = "cadastro-livros-bíblia-v1";
-const ARQUIVOS = ["./", "index.html", "style.css", "app.js", "manifest.json", "icon.svg"];
+const ARQUIVOS = ["./", "index.html", "style.css", "app.js", "manifest.json", "images.png"];
 
 self.addEventListener("install", (evento) => {
   evento.waitUntil(
