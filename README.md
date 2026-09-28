@@ -1,6 +1,6 @@
 # Frontend do CRUD de Usuários
 
-Frontend simples em HTML, CSS e JavaScript que utiliza todas as rotas do backend.
+Frontend da Atividade prática de sala: API simples para cadastrar e gerenciar livros da Bíblia, usando Node.js, Express e Mongoose.
 
 ## Executar
 
